@@ -1,4 +1,4 @@
-let countDownDate = new Date("Jan 1, 2020 12:00:00").getTime(); //initialize date and create a new one
+let countDownDate = new Date("Jan 1, 2024 12:00:00").getTime(); //initialize date and create a new one
 
 const x = setInterval(function () {
   let now = new Date().getTime(); //get today's date and time
